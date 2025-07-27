@@ -10,6 +10,35 @@ Darwin is a wearable AI device that combines computer vision, voice interaction,
 
 ---
 
+## Images
+
+I didn’t manage to take many pictures, but here are some highlights.
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Working Model</strong><br>
+      <img src="https://github.com/user-attachments/assets/d0fd27ab-be19-49aa-a2ee-2d551179283d" width="250">
+    </td>
+    <td align="center">
+      <strong>Raspberry Pi Camera Module 3</strong><br>
+      <img src="https://github.com/user-attachments/assets/2014552a-41cd-4b06-b8c8-bcf25fef2b66" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>1,250 mAH Battery</strong><br>
+      <img src="https://github.com/user-attachments/assets/41f583ee-8625-4fde-ba89-9b792af9ad77" width="250">
+    </td>
+    <td align="center">
+      <strong>Charging Circuit for Type C</strong><br>
+      <img src="https://github.com/user-attachments/assets/a4e59879-f2f0-49be-88e4-fc56bf061444" width="250">
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Features
 
 - **3D-Printed Frame**: Custom-designed and printed for optimal fit and function.
